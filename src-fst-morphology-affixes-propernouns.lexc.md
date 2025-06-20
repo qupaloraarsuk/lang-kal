@@ -313,4 +313,4 @@ Nyt lexicon 20180615 Z2suaq_ateqZmorf
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/morphology/affixes/propernouns.lexc](https://github.com/giellalt/lang-kal/blob/main/src/fst/morphology/affixes/propernouns.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/propernouns.lexc](https://github.com/qupaloraarsuk/lang-kal/blob/main/src/fst/morphology/affixes/propernouns.lexc)</small>

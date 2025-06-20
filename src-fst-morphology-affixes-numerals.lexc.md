@@ -76,4 +76,4 @@
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/morphology/affixes/numerals.lexc](https://github.com/giellalt/lang-kal/blob/main/src/fst/morphology/affixes/numerals.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/numerals.lexc](https://github.com/qupaloraarsuk/lang-kal/blob/main/src/fst/morphology/affixes/numerals.lexc)</small>

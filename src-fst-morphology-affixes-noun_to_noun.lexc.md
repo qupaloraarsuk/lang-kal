@@ -119,4 +119,4 @@ gennemgangskatalog for up-stammer, der kræver replaciv sandhi
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/morphology/affixes/noun_to_noun.lexc](https://github.com/giellalt/lang-kal/blob/main/src/fst/morphology/affixes/noun_to_noun.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/noun_to_noun.lexc](https://github.com/qupaloraarsuk/lang-kal/blob/main/src/fst/morphology/affixes/noun_to_noun.lexc)</small>

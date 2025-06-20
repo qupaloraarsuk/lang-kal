@@ -36,4 +36,4 @@
 
 * * *
 
-<small>This (part of) documentation was generated from [tools/grammarcheckers/liststemplates.cg3](https://github.com/giellalt/lang-kal/blob/main/tools/grammarcheckers/liststemplates.cg3)</small>
+<small>This (part of) documentation was generated from [tools/grammarcheckers/liststemplates.cg3](https://github.com/qupaloraarsuk/lang-kal/blob/main/tools/grammarcheckers/liststemplates.cg3)</small>

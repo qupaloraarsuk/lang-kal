@@ -12,7 +12,7 @@ All doc-comment documentation in one large file.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/cg3/dependency.cg3](https://github.com/giellalt/lang-kal/blob/main/src/cg3/dependency.cg3)</small>
+<small>This (part of) documentation was generated from [src/cg3/dependency.cg3](https://github.com/qupaloraarsuk/lang-kal/blob/main/src/cg3/dependency.cg3)</small>
 
 ---
 
@@ -410,7 +410,7 @@ Judithes afsnit start ### påbegyndt 20231006: sorter umulige morfemkombinatione
 
 * * *
 
-<small>This (part of) documentation was generated from [src/cg3/disambiguator.cg3](https://github.com/giellalt/lang-kal/blob/main/src/cg3/disambiguator.cg3)</small>
+<small>This (part of) documentation was generated from [src/cg3/disambiguator.cg3](https://github.com/qupaloraarsuk/lang-kal/blob/main/src/cg3/disambiguator.cg3)</small>
 
 ---
 
@@ -464,7 +464,7 @@ Delimiter
 
 * * *
 
-<small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt/lang-kal/blob/main/src/cg3/functions.cg3)</small>
+<small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/qupaloraarsuk/lang-kal/blob/main/src/cg3/functions.cg3)</small>
 
 ---
 
@@ -1273,7 +1273,7 @@ Udkommenterede lexica - Flyttet til derivations-inflections.bak20200319 på Pers
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/morphology/affixes/derivations-inflections.lexc](https://github.com/giellalt/lang-kal/blob/main/src/fst/morphology/affixes/derivations-inflections.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/derivations-inflections.lexc](https://github.com/qupaloraarsuk/lang-kal/blob/main/src/fst/morphology/affixes/derivations-inflections.lexc)</small>
 
 ---
 
@@ -1400,7 +1400,7 @@ gennemgangskatalog for up-stammer, der kræver replaciv sandhi
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/morphology/affixes/noun_to_noun.lexc](https://github.com/giellalt/lang-kal/blob/main/src/fst/morphology/affixes/noun_to_noun.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/noun_to_noun.lexc](https://github.com/qupaloraarsuk/lang-kal/blob/main/src/fst/morphology/affixes/noun_to_noun.lexc)</small>
 
 ---
 
@@ -1484,7 +1484,7 @@ gennemgangskatalog for up-stammer, der kræver replaciv sandhi
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/morphology/affixes/numerals.lexc](https://github.com/giellalt/lang-kal/blob/main/src/fst/morphology/affixes/numerals.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/numerals.lexc](https://github.com/qupaloraarsuk/lang-kal/blob/main/src/fst/morphology/affixes/numerals.lexc)</small>
 
 ---
 
@@ -1805,7 +1805,7 @@ Nyt lexicon 20180615 Z2suaq_ateqZmorf
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/morphology/affixes/propernouns.lexc](https://github.com/giellalt/lang-kal/blob/main/src/fst/morphology/affixes/propernouns.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/propernouns.lexc](https://github.com/qupaloraarsuk/lang-kal/blob/main/src/fst/morphology/affixes/propernouns.lexc)</small>
 
 ---
 
@@ -1817,7 +1817,7 @@ Nyt lexicon 20180615 Z2suaq_ateqZmorf
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/morphology/affixes/symbols.lexc](https://github.com/giellalt/lang-kal/blob/main/src/fst/morphology/affixes/symbols.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/symbols.lexc](https://github.com/qupaloraarsuk/lang-kal/blob/main/src/fst/morphology/affixes/symbols.lexc)</small>
 
 ---
 
@@ -2756,7 +2756,7 @@ given the proper use of these flags.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/morphology/root.lexc](https://github.com/giellalt/lang-kal/blob/main/src/fst/morphology/root.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/root.lexc](https://github.com/qupaloraarsuk/lang-kal/blob/main/src/fst/morphology/root.lexc)</small>
 
 ---
 
@@ -2827,7 +2827,7 @@ enheder sendes til specielt unit-låneordskatalog
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/morphology/stems/nouns.lexc](https://github.com/giellalt/lang-kal/blob/main/src/fst/morphology/stems/nouns.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/nouns.lexc](https://github.com/qupaloraarsuk/lang-kal/blob/main/src/fst/morphology/stems/nouns.lexc)</small>
 
 ---
 
@@ -2839,7 +2839,7 @@ xxx 20170522 til former, som ikke kan læses men som har brug for en analyse i c
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/morphology/stems/propernouns.lexc](https://github.com/giellalt/lang-kal/blob/main/src/fst/morphology/stems/propernouns.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/propernouns.lexc](https://github.com/qupaloraarsuk/lang-kal/blob/main/src/fst/morphology/stems/propernouns.lexc)</small>
 
 ---
 
@@ -2851,7 +2851,7 @@ xxx 20170524 til verbalstammer, som ikke kan læses men som har brug for en anal
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/morphology/stems/verbs.lexc](https://github.com/giellalt/lang-kal/blob/main/src/fst/morphology/stems/verbs.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/verbs.lexc](https://github.com/qupaloraarsuk/lang-kal/blob/main/src/fst/morphology/stems/verbs.lexc)</small>
 
 ---
 
@@ -2873,7 +2873,7 @@ For example:
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/transcriptions/transcriptor-abbrevs2text.lexc](https://github.com/giellalt/lang-kal/blob/main/src/fst/transcriptions/transcriptor-abbrevs2text.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/transcriptions/transcriptor-abbrevs2text.lexc](https://github.com/qupaloraarsuk/lang-kal/blob/main/src/fst/transcriptions/transcriptor-abbrevs2text.lexc)</small>
 
 ---
 
@@ -2889,7 +2889,7 @@ For example:
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/transcriptions/transcriptor-numbers-digit2text.lexc](https://github.com/giellalt/lang-kal/blob/main/src/fst/transcriptions/transcriptor-numbers-digit2text.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/transcriptions/transcriptor-numbers-digit2text.lexc](https://github.com/qupaloraarsuk/lang-kal/blob/main/src/fst/transcriptions/transcriptor-numbers-digit2text.lexc)</small>
 
 ---
 
@@ -2939,7 +2939,7 @@ Rules for quotation marks.
 
 * * *
 
-<small>This (part of) documentation was generated from [tools/grammarcheckers/grammarchecker.cg3](https://github.com/giellalt/lang-kal/blob/main/tools/grammarcheckers/grammarchecker.cg3)</small>
+<small>This (part of) documentation was generated from [tools/grammarcheckers/grammarchecker.cg3](https://github.com/qupaloraarsuk/lang-kal/blob/main/tools/grammarcheckers/grammarchecker.cg3)</small>
 
 ---
 
@@ -2983,7 +2983,7 @@ Rules for quotation marks.
 
 * * *
 
-<small>This (part of) documentation was generated from [tools/grammarcheckers/liststemplates.cg3](https://github.com/giellalt/lang-kal/blob/main/tools/grammarcheckers/liststemplates.cg3)</small>
+<small>This (part of) documentation was generated from [tools/grammarcheckers/liststemplates.cg3](https://github.com/qupaloraarsuk/lang-kal/blob/main/tools/grammarcheckers/liststemplates.cg3)</small>
 
 ---
 
@@ -3048,7 +3048,7 @@ Finally we mark as a token any sequence making up a:
 
 * * *
 
-<small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-disamb-gt-desc.pmscript](https://github.com/giellalt/lang-kal/blob/main/tools/tokenisers/tokeniser-disamb-gt-desc.pmscript)</small>
+<small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-disamb-gt-desc.pmscript](https://github.com/qupaloraarsuk/lang-kal/blob/main/tools/tokenisers/tokeniser-disamb-gt-desc.pmscript)</small>
 
 ---
 
@@ -3113,7 +3113,7 @@ Finally we mark as a token any sequence making up a:
 
 * * *
 
-<small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript](https://github.com/giellalt/lang-kal/blob/main/tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript)</small>
+<small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript](https://github.com/qupaloraarsuk/lang-kal/blob/main/tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript)</small>
 
 ---
 
@@ -3179,4 +3179,4 @@ Needs hfst-tokenise to output things differently depending on the tag they get
 
 * * *
 
-<small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-tts-cggt-desc.pmscript](https://github.com/giellalt/lang-kal/blob/main/tools/tokenisers/tokeniser-tts-cggt-desc.pmscript)</small>
+<small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-tts-cggt-desc.pmscript](https://github.com/qupaloraarsuk/lang-kal/blob/main/tools/tokenisers/tokeniser-tts-cggt-desc.pmscript)</small>
